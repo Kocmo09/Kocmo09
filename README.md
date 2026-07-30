@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img src="https://media.tenor.com/KDy-H_pHHoAAAAAM/fang-yuan-reverend-insanity.gif">
+<img src="https://media.tenor.com/KDy-H_pHHoAAAAAC/fang-yuan-reverend-insanity.gif">
 <!--
 **Kocmo09/Kocmo09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
