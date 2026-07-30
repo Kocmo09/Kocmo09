@@ -1,16 +1,13 @@
-## Hi there 👋
-<img src="https://media.tenor.com/KDy-H_pHHoAAAAAC/fang-yuan-reverend-insanity.gif">
-<!--
-**Kocmo09/Kocmo09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# Code • Learn • Repeat 🔄
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://media.tenor.com/KDy-H_pHHoAAAAAC/fang-yuan-reverend-insanity.gif" width="320" alt="Fang Yuan GIF"/>
+
+I enjoy building software, learning new technologies, and creating interesting projects.
+
+<a href="mailto:kob09kost@gmail.com">
+  <img src="https://img.shields.io/badge/Contact-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact via Gmail"/>
+</a>
+
+</div>
